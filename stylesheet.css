@@ -3,10 +3,19 @@ body {
 }
 h1 {
     color: #d0bf53;
+    text-align:center;
 }
 h2 {
     color: black;
+    text-align:center;
 }
 p {
     color: black;
+}
+.animal {
+    width:200px;
+    height:200px;
+}
+.military {
+    height: 190px;
 }
