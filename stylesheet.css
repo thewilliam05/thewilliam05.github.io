@@ -11,6 +11,7 @@ h2 {
 }
 p {
     color: black;
+    text-align:center;
 }
 .animal {
     width:200px;
